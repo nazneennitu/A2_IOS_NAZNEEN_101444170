@@ -37,3 +37,4 @@ Improve database indexing for faster lookups
 Optimize image loading in the gallery view
 Enhance memory management to prevent leaks
 Refactor authentication logic for better maintainability
+Simplify state management using Redux Toolkit
