@@ -34,3 +34,4 @@ Fix UI layout issue on smaller screens
 Optimize API response time for user queries
 Reduce app startup time by caching assets
 Improve database indexing for faster lookups
+Optimize image loading in the gallery view
