@@ -30,3 +30,4 @@ Resolve issue with incorrect date format in reports
 Resolve issue with incorrect date format in reports
 Fix navigation bug in multi-screen app
 Corrected database connection issue
+Fix UI layout issue on smaller screens
