@@ -39,3 +39,4 @@ Enhance memory management to prevent leaks
 Refactor authentication logic for better maintainability
 Simplify state management using Redux Toolkit
 Refactor database schema for scalability
+Remove deprecated methods and update API calls
