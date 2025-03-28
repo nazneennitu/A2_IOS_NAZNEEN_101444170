@@ -21,3 +21,4 @@ Commit 19
 Commit 20
 Add user authentication with JWT
 Add user authentication with JWT
+mplement product management using Core Data
