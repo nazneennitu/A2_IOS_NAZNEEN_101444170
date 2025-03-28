@@ -28,3 +28,4 @@ Implement dark mode support
 Fix crash when adding a new task
 Resolve issue with incorrect date format in reports
 Resolve issue with incorrect date format in reports
+Fix navigation bug in multi-screen app
