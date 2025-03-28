@@ -25,3 +25,5 @@ mplement product management using Core Data
 Add search functionality for tasks
 Integrate payment gateway with Stripe API
 Implement dark mode support
+Fix crash when adding a new task
+Resolve issue with incorrect date format in reports
